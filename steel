@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SteelTariffs.com | Trade Policy & Law Authority</title>
+    <style>
+        /* Modern, professional styling */
+        :root {
+            --steel-blue: #4682B4;
+            --charcoal: #2F4F4F;
+            --light-gray: #f5f5f5;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background: white;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background: var(--steel-blue);
+            color: white;
+            padding: 30px 0;
+            text-align: center;
+            border-bottom: 5px solid var(--charcoal);
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: var(--steel-blue);
+            border-bottom: 2px solid var(--steel-blue);
+            padding-bottom: 5px;
+        }
+        .tagline {
+            font-style: italic;
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        .highlight-box {
+            background: var(--light-gray);
+            border-left: 4px solid var(--steel-blue);
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .cta-button {
+            display: inline-block;
+            background: var(--steel-blue);
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            margin: 10px 5px;
+        }
+        .cta-button:hover {
+            background: var(--charcoal);
+        }
+        .use-cases {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .use-case {
+            flex: 1;
+            min-width: 200px;
+            background: var(--light-gray);
+            padding: 15px;
+            border-radius: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background: var(--steel-blue);
+            color: white;
+        }
+        tr:nth-child(even) {
+            background: var(--light-gray);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: var(--charcoal);
+            color: white;
+            margin-top: 30px;
+        }
+        @media (max-width: 600px) {
+            .use-cases {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>SteelTariffs.com</h1>
+            <p class="tagline">The Authority on Steel Trade Policy & Law</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>🚀 Why SteelTariffs.com?</h2>
+            <p>An <strong>exact-match domain</strong> for legal firms, policy advocates, and industry leaders navigating global steel tariffs. Secure instant credibility, SEO dominance, and high-intent traffic.</p>
+            
+            <div class="highlight-box">
+                <strong>✅ Global Trust:</strong> .COM extension for universal authority<br>
+                <strong>✅ SEO Power:</strong> Ranks for "steel tariffs," "Section 232," and trade litigation<br>
+                <strong>✅ Versatile Use:</strong> Law firm microsites, policy hubs, or news portals
+            </div>
+        </section>
+
+        <section>
+            <h2>🎯 Strategic Uses</h2>
+            <div class="use-cases">
+                <div class="use-case">
+                    <h3>Legal & Compliance Hub</h3>
+                    <p>Track tariff rulings, litigation updates, and compliance guides.</p>
+                </div>
+                <div class="use-case">
+                    <h3>Policy Think Tank</h3>
+                    <p>Publish white papers, advocacy campaigns, and industry data.</p>
+                </div>
+                <div class="use-case">
+                    <h3>Lead Generation</h3>
+                    <p>Capture inbound queries from businesses affected by tariffs.</p>
+                </div>
+                <div class="use-case">
+                    <h3>News & Alerts</h3>
+                    <p>Subscription-based updates for traders, lawyers, and manufacturers.</p>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>💡 Domain Highlights</h2>
+            <ul>
+                <li><strong>Exact-Match:</strong> Perfect for SEO and memorability.</li>
+                <li><strong>Lease-to-Own:</strong> Flexible acquisition at <strong>$1,000/month</strong> (12-month term).</li>
+                <li><strong>Bundled Opportunity:</strong> Pair with <a href="#" style="color: var(--steel-blue);">AluminumTariffs.com</a> for expanded trade coverage.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>💰 Acquisition Options</h2>
+            <table>
+                <tr>
+                    <th>Option</th>
+                    <th>Price</th>
+                    <th>Terms</th>
+                </tr>
+                <tr>
+                    <td><strong>Buy Now</strong></td>
+                    <td><strong>$15,000</strong></td>
+                    <td>Premium acquisition</td>
+                </tr>
+                <tr>
+                    <td><strong>Minimum Offer</strong></td>
+                    <td><strong>$12,000</strong></td>
+                    <td>Serious inquiries only</td>
+                </tr>
+                <tr>
+                    <td><strong>Lease-to-Own</strong></td>
+                    <td><strong>$1,000/mo</strong></td>
+                    <td>12-month term ($12K total)</td>
+                </tr>
+            </table>
+        </section>
+
+        <section>
+            <h2>📩 Contact the Seller</h2>
+            <p>
+                <strong>Steve</strong><br>
+                📧 <a href="mailto:steve@domainmont.com" style="color: var(--steel-blue);">steve@domainmont.com</a><br>
+                🔗 <strong>Also Available:</strong> <a href="#" style="color: var(--steel-blue);">AluminumTariffs.com</a>
+            </p>
+            <a href="mailto:steve@domainmont.com" class="cta-button">Make an Offer</a>
+            <a href="mailto:steve@domainmont.com" class="cta-button">Lease-to-Own</a>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 SteelTariffs.com | For Sale by domainmont</p>
+        </div>
+    </footer>
+</body>
+</html>
